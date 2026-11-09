@@ -1,0 +1,108 @@
+{
+  "project": "Devicon",
+  "commit": "6a37858047b0e8d9c9c0e68f4a071fc410652e89",
+  "license": "MIT",
+  "icons": [
+    {
+      "name": "typescript",
+      "file": "typescript.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/typescript/typescript-original.svg"
+    },
+    {
+      "name": "react",
+      "file": "react.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/react/react-original.svg"
+    },
+    {
+      "name": "nextjs",
+      "file": "nextjs.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/nextjs/nextjs-original.svg"
+    },
+    {
+      "name": "tailwindcss",
+      "file": "tailwindcss.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/tailwindcss/tailwindcss-original.svg"
+    },
+    {
+      "name": "html5",
+      "file": "html5.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/html5/html5-original.svg"
+    },
+    {
+      "name": "kotlin",
+      "file": "kotlin.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/kotlin/kotlin-original.svg"
+    },
+    {
+      "name": "jetpackcompose",
+      "file": "jetpackcompose.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/jetpackcompose/jetpackcompose-original.svg"
+    },
+    {
+      "name": "expo",
+      "file": "expo.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/expo/expo-original.svg"
+    },
+    {
+      "name": "opengl",
+      "file": "opengl.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/opengl/opengl-original.svg"
+    },
+    {
+      "name": "sqlite",
+      "file": "sqlite.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/sqlite/sqlite-original.svg"
+    },
+    {
+      "name": "supabase",
+      "file": "supabase.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/supabase/supabase-original.svg"
+    },
+    {
+      "name": "postgresql",
+      "file": "postgresql.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/postgresql/postgresql-original.svg"
+    },
+    {
+      "name": "redis",
+      "file": "redis.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/redis/redis-original.svg"
+    },
+    {
+      "name": "nestjs",
+      "file": "nestjs.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/nestjs/nestjs-original.svg"
+    },
+    {
+      "name": "python",
+      "file": "python.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/python/python-original.svg"
+    },
+    {
+      "name": "playwright",
+      "file": "playwright.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/playwright/playwright-original.svg"
+    },
+    {
+      "name": "streamlit",
+      "file": "streamlit.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/streamlit/streamlit-original.svg"
+    },
+    {
+      "name": "pandas",
+      "file": "pandas.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/pandas/pandas-original.svg"
+    },
+    {
+      "name": "threejs",
+      "file": "threejs.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/threejs/threejs-original.svg"
+    },
+    {
+      "name": "zustand",
+      "file": "zustand.svg",
+      "origin": "https://github.com/devicons/devicon/blob/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/zustand/zustand-original.svg"
+    }
+  ],
+  "normalization": "Explicit SVG width/height 256 added for consistent WebGL texture upload; paths and artwork preserved."
+}

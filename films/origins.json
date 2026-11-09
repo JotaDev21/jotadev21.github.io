@@ -1,0 +1,34 @@
+{
+  "author": "JotaDev21 / Johnatan Andrey de Faria",
+  "type": "Gravações reais de aplicativos, com dados de teste identificados",
+  "video": {
+    "file": "projetos-em-uso-v3.mp4",
+    "sha256": "11f39310a168df5c4df57143fae914d5e81b58517972636877d351edbb9666eb",
+    "generator": "Remotion 4.0.537",
+    "composition": "PortfolioCompleto",
+    "durationSeconds": 137.6,
+    "projects": [
+      "REMNANT",
+      "Luma Studio",
+      "LeadBack",
+      "Keepsake",
+      "InvestLab"
+    ],
+    "uiRecreated": false,
+    "description": "REMNANT: consulta no app instalado, sem alterar treino. Luma e Keepsake: instalações separadas de teste; foto fictícia de testes editada e guardada. LeadBack e InvestLab: demonstrações web com dados fictícios. Nenhuma mensagem ou ordem financeira real.",
+    "sound": "Trilha instrumental e efeitos de passagem originais; sem fala sintética."
+  },
+  "poster": {
+    "file": "projetos-em-uso-poster.webp",
+    "source": "projetos-em-uso-v3.mp4",
+    "sourceTimeSeconds": 17,
+    "method": "Quadro extraído do MP4, sem geração ou reconstrução da interface",
+    "sha256": "b6bc52860b1c25e43bb2ec357cd1217db1d7b24668c8b0839377a5f126b75f03"
+  },
+  "descriptions": {
+    "file": "projetos-em-uso.vtt",
+    "language": "pt-BR",
+    "type": "Descrição autoral das 25 ações mostradas"
+  },
+  "pendingRecordings": []
+}
